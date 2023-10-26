@@ -16,10 +16,13 @@ NoLimits Squad is a group that always welcomes open-minded creators. Over the ye
 - Rekki
 
 # 👐🏻 Published projects
+
 We decided to publish some of our projects to the public.
 
-- [nl-cod2-workflows](https://github.com/nl-squad/nl-cod2-workflows) - The first publicly available GitHub Actions integration for CoD2 servers.
-- [nl-www](https://github.com/nl-squad/nl-www) - Public NoLimits website (doesn't include the administration panel).
-- [nl-cod2-waypoints](https://github.com/nl-squad/nl-cod2-waypoints) - Mod that enables you to place nodes and edges for further bot pathfinding.
-- [nl-cli-tool](https://github.com/nl-squad/nl-cli-tool) - Tool used for remote server control and management.
-- [nl-cod2-library](https://github.com/nl-squad/nl-cod2-library) - Public implementation of how to integrate the library into a dedicated server.
+- [nl-squad/nl-cod2-workflows](https://github.com/nl-squad/nl-cod2-workflows) - The first publicly available GitHub Actions integration for CoD2 servers.
+- [nl-squad/nl-www](https://github.com/nl-squad/nl-www) - Public NoLimits website (doesn't include the administration panel).
+- [nl-squad/nl-cod2-waypoints](https://github.com/nl-squad/nl-cod2-waypoints) - Mod that enables you to place nodes and edges for further bot pathfinding.
+- [nl-squad/nl-cli-tool](https://github.com/nl-squad/nl-cli-tool) - Tool used for remote server control and management.
+- [nl-squad/nl-cod2-library](https://github.com/nl-squad/nl-cod2-library) - Public implementation of how to integrate the library into a dedicated server.
+- [rutkowski-tomasz/cod2-docker](https://github.com/rutkowski-tomasz/cod2-docker) - Dockerized version of CoD2 server with the latest libcod.
+- [rutkowski-tomasz/cod2-as-code](https://github.com/rutkowski-tomasz/cod2-as-code) - IaC for setup, configuration and managing the server.
