@@ -6,11 +6,14 @@ This is a GitHub organization for the NoLimits community. It was founded in 2011
 
 NoLimits Squad is a group that always welcomes open-minded creators. Over the years more than a hundred of members were involved in the community. We have spent a lot of time creating models, designing graphics, scripting, model designing, planning custom game types, and much more. The most deserved members are:
 
-- [SebRak](https://github.com/SebRak)
-- [NoLimitsDusza](https://github.com/NoLimitsDusza)
 - [rutkowski-tomasz](https://github.com/rutkowski-tomasz)
+- [NoLimitsDusza](https://github.com/NoLimitsDusza)
+- [SebRak](https://github.com/SebRak)
+- Yuri
+- Bozzy
 - Prawy
 - K20
+- Rekki
 
 # 👐🏻 Published projects
 We decided to publish some of our projects to the public.
