@@ -26,3 +26,8 @@ We decided to publish some of our projects to the public.
 - [nl-squad/nl-cod2-library](https://github.com/nl-squad/nl-cod2-library) - Public implementation of how to integrate the library into a dedicated server.
 - [rutkowski-tomasz/cod2-docker](https://github.com/rutkowski-tomasz/cod2-docker) - Dockerized version of CoD2 server with the latest libcod.
 - [rutkowski-tomasz/cod2-as-code](https://github.com/rutkowski-tomasz/cod2-as-code) - IaC for setup, configuration and managing the server.
+
+# 🥸 Private projects
+
+- [nl-squad/nl-cod2-zom-scripts](https://github.com/nl-squad/nl-cod2-zom-scripts) - Server side for one of the most beloved zombies mod
+- [nl-squad/nl-cod2-zom-iwds](https://github.com/nl-squad/nl-cod2-zom-iwds) - Client side for the one above
