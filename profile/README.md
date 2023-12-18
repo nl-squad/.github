@@ -19,6 +19,7 @@ NoLimits Squad is a group that always welcomes open-minded creators. Over the ye
 
 We decided to publish some of our projects to the public.
 
+- [nl-squad/nl-cod2-zom-iwds](https://github.com/nl-squad/nl-cod2-zom-iwds) - Client side for the one above
 - [nl-squad/nl-cod2-workflows](https://github.com/nl-squad/nl-cod2-workflows) - The first publicly available GitHub Actions integration for CoD2 servers.
 - [nl-squad/nl-www](https://github.com/nl-squad/nl-www) - Public NoLimits website (doesn't include the administration panel).
 - [nl-squad/nl-cod2-waypoints](https://github.com/nl-squad/nl-cod2-waypoints) - Mod that enables you to place nodes and edges for further bot pathfinding.
@@ -30,4 +31,3 @@ We decided to publish some of our projects to the public.
 # 🥸 Private projects
 
 - [nl-squad/nl-cod2-zom-scripts](https://github.com/nl-squad/nl-cod2-zom-scripts) - Server side for one of the most beloved zombies mod
-- [nl-squad/nl-cod2-zom-iwds](https://github.com/nl-squad/nl-cod2-zom-iwds) - Client side for the one above
