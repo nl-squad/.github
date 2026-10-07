@@ -21,8 +21,6 @@ We decided to publish some of our projects to the public.
 
 - [nl-squad/nl-cod2-zom-iwds](https://github.com/nl-squad/nl-cod2-zom-iwds) - Client side for one of the most beloved zombies mod
 - [nl-squad/nl-cod2-workflows](https://github.com/nl-squad/nl-cod2-workflows) - The first publicly available GitHub Actions integration for CoD2 servers.
-- [nl-squad/nl-www](https://github.com/nl-squad/nl-www) - Public NoLimits website (doesn't include the administration panel).
-- [nl-squad/nl-cod2-waypoints](https://github.com/nl-squad/nl-cod2-waypoints) - Mod that enables you to place nodes and edges for further bot pathfinding.
 - [nl-squad/nl-cli-tool](https://github.com/nl-squad/nl-cli-tool) - Tool used for remote server control and management.
 - [nl-squad/nl-cod2-library](https://github.com/nl-squad/nl-cod2-library) - Public implementation of how to integrate the library into a dedicated server.
 - [rutkowski-tomasz/cod2-docker](https://github.com/rutkowski-tomasz/cod2-docker) - Dockerized version of CoD2 server with the latest libcod.
